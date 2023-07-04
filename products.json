@@ -1,0 +1,182 @@
+[
+    {
+        "name": "Note 11 Pro",
+        "price": 154,
+        "featured": true,
+        "rating": 4.2,
+        "createdAt": "2023-07-01T12:34:56.789Z",
+        "company": "mi",
+        "type": "mobile"
+    },
+    {
+        "name": "iPhone 13",
+        "price": 1099,
+        "featured": false,
+        "rating": 4.7,
+        "createdAt": "2023-07-02T09:12:34.567Z",
+        "company": "apple",
+        "type": "mobile"
+    },
+    {
+        "name": "Galaxy Watch 4",
+        "price": 299,
+        "featured": false,
+        "rating": 4.4,
+        "createdAt": "2023-07-03T15:45:23.123Z",
+        "company": "samsung",
+        "type": "watch"
+    },
+    {
+        "name": "Xperia 1 III",
+        "price": 1299,
+        "featured": false,
+        "rating": 4.3,
+        "createdAt": "2023-07-04T11:22:33.444Z",
+        "company": "sony",
+        "type": "mobile"
+    },
+    {
+        "name": "Inspiron 15",
+        "price": 899,
+        "featured": true,
+        "rating": 3.9,
+        "createdAt": "2023-07-05T19:58:37.246Z",
+        "company": "dell",
+        "type": "laptop"
+    },
+    {
+        "name": "Mi Watch Lite",
+        "price": 79,
+        "featured": true,
+        "rating": 4.0,
+        "createdAt": "2023-07-06T08:45:12.888Z",
+        "company": "mi",
+        "type": "watch"
+    },
+    {
+        "name": "MacBook Pro",
+        "price": 2499,
+        "featured": true,
+        "rating": 4.9,
+        "createdAt": "2023-07-07T14:25:55.333Z",
+        "company": "apple",
+        "type": "laptop"
+    },
+    {
+        "name": "XPS 13",
+        "price": 1199,
+        "featured": false,
+        "rating": 4.5,
+        "createdAt": "2023-07-08T10:11:09.222Z",
+        "company": "dell",
+        "type": "laptop"
+    },
+    {
+        "name": "QLED 4K TV",
+        "price": 899,
+        "featured": true,
+        "rating": 4.7,
+        "createdAt": "2023-07-09T21:33:45.678Z",
+        "company": "samsung",
+        "type": "tv"
+    },
+    {
+        "name": "Redmi Note 10",
+        "price": 199,
+        "featured": false,
+        "rating": 4.1,
+        "createdAt": "2023-07-10T07:56:32.111Z",
+        "company": "mi",
+        "type": "mobile"
+    },
+    {
+        "name": "iMac",
+        "price": 1799,
+        "featured": false,
+        "rating": 4.8,
+        "createdAt": "2023-07-11T13:44:15.777Z",
+        "company": "apple",
+        "type": "laptop"
+    },
+    {
+        "name": "Galaxy Watch Active 2",
+        "price": 199,
+        "featured": true,
+        "rating": 4.3,
+        "createdAt": "2023-07-12T09:23:18.999Z",
+        "company": "samsung",
+        "type": "watch"
+    },
+    {
+        "name": "Xperia 5 III",
+        "price": 999,
+        "featured": true,
+        "rating": 4.6,
+        "createdAt": "2023-07-13T17:05:27.555Z",
+        "company": "sony",
+        "type": "mobile"
+    },
+    {
+        "name": "Inspiron 17",
+        "price": 1099,
+        "featured": false,
+        "rating": 4.2,
+        "createdAt": "2023-07-14T11:39:10.333Z",
+        "company": "dell",
+        "type": "laptop"
+    },
+    {
+        "name": "Mi TV 4A",
+        "price": 299,
+        "featured": true,
+        "rating": 4.4,
+        "createdAt": "2023-07-15T19:16:59.888Z",
+        "company": "mi",
+        "type": "tv"
+    },
+    {
+        "name": "Apple Watch Series 6",
+        "price": 399,
+        "featured": true,
+        "rating": 4.7,
+        "createdAt": "2023-07-16T07:55:42.777Z",
+        "company": "apple",
+        "type": "watch"
+    },
+    {
+        "name": "Surface Laptop 4",
+        "price": 1299,
+        "featured": false,
+        "rating": 4.2,
+        "createdAt": "2023-07-17T13:27:30.222Z",
+        "company": "microsoft",
+        "type": "laptop"
+    },
+    {
+        "name": "QLED 8K TV",
+        "price": 1899,
+        "featured": true,
+        "rating": 4.9,
+        "createdAt": "2023-07-18T10:18:19.111Z",
+        "company": "samsung",
+        "type": "tv"
+    },
+    {
+        "name": "Redmi Watch",
+        "price": 59,
+        "featured": false,
+        "rating": 4.1,
+        "createdAt": "2023-07-19T17:43:54.333Z",
+        "company": "mi",
+        "type": "watch"
+    },
+    {
+        "name": "MacBook Air",
+        "price": 1299,
+        "featured": true,
+        "rating": 4.6,
+        "createdAt": "2023-07-20T11:52:08.555Z",
+        "company": "apple",
+        "type": "laptop"
+    }
+]
